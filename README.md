@@ -42,13 +42,6 @@
 > - It automatically converts a set of YouTube video containers into a slideshow, adds **Prev/Next buttons** and **clickable dots**, and handles autoplay so that the next slide plays when a video ends.  
 > - Multiple slideshows can run independently on the same page, and the layout adjusts responsively for **desktop and mobile screens**.
 
-🔹 ~~**Steganography Demo – Night of Scientists 2024**~~
-> - ~~A live demo showing how information can be hidden in images.~~
-> - ~~Used as an educational showcase for visitors at FI MU.~~
-
-🔹 ~~**Open Day Lecture – Public Network Dangers**~~
-> - ~~A short talk on how unsecured Wi-Fi can expose users to risks — prepared for the FI MU Open Day event.~~
-
 ---
 
 ## 📊 GitHub Stats
