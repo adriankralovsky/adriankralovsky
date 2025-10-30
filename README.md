@@ -37,7 +37,7 @@
 > - **BulkScrypt** is a Python tool for **recursive bulk encryption and decryption** of files using the secure [scrypt](https://en.wikipedia.org/wiki/Scrypt) key derivation function.
 > - Designed for **security, simplicity, and ease of use**, it allows you to encrypt or decrypt entire directories with a single command.
 
-🔹 [**SlideTube**](https://github.com/adriankralovsky/SlideTube)  
+🔹 [**SlideTube**](https://github.com/adriankralovsky/slidetube)  
 > - **SlideTube** is a lightweight JavaScript tool for creating **responsive YouTube video slideshows** with navigation arrows, dots, and autoplay handling.  
 > - It automatically converts a set of YouTube video containers into a slideshow, adds **Prev/Next buttons** and **clickable dots**, and handles autoplay so that the next slide plays when a video ends.  
 > - Multiple slideshows can run independently on the same page, and the layout adjusts responsively for **desktop and mobile screens**.
