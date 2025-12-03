@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Adrian Kralovský
+# 👋 Hey there, I'm Adrián Kraľovský
 
 🎓 I'm a cybersecurity student at [Masaryk University, Faculty of Informatics (FI MU)](https://www.fi.muni.cz/).
 
