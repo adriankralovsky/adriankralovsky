@@ -21,7 +21,7 @@
 ## ⚙️ Tech Stack
 
 **Languages:**
-`Python` · `C99` · `JavaScript` · `HTML` · `CSS` · (learning `C++`)
+`Python` · `C` · `JavaScript` · `HTML` · `CSS` · (learning `C++`)
 
 **Tools & Frameworks:**
 `Docker` · `Git` · `Linux`
