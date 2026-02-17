@@ -42,11 +42,6 @@
 > - It automatically converts a set of YouTube video containers into a slideshow, adds **Prev/Next buttons** and **clickable dots**, and handles autoplay so that the next slide plays when a video ends.  
 > - Multiple slideshows can run independently on the same page, and the layout adjusts responsively for **desktop and mobile screens**.
 
-🔹 [**Orwell**](https://github.com/adriankralovsky/orwell) **- ON HOLD**
-> - Think of **Orwell** as a personal knowledge and relationship management system that merges the best of **Monica HQ, Notion, and Obsidian** — all **self-hosted, private, and modular**.
-> - A **personal life OS** in early development, helping you manage **contacts, notes, projects, and reflections** while keeping your data **secure and under your control**.
-> - Built with **FastAPI**, **SQLite/PostgreSQL**, and modern web technologies, Orwell’s vision includes **modular plugins, encrypted backups, cross-platform support, and local AI assistance**.
-
 ---
 
 ## 📊 GitHub Stats
